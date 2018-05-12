@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1191
     wikipedia: http://en.wikipedia.org/wiki/James_Bryce,_1st_Viscount_Bryce
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44101#The-Holy-Roman-Empire
 gutenberg_issued: '2013-11-04'
 gutenberg_type: Text
 identifiers:
