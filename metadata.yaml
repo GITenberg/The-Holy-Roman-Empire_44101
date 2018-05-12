@@ -1,0 +1,28 @@
+_repo: The-Holy-Roman-Empire_44101
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bryce, James Bryce, Viscount
+    alias: Bryce, Viscount
+    birthdate: 1838
+    deathdate: 1922
+    gutenberg_agent_id: '1191'
+    url: http://www.gutenberg.org/2009/agents/1191
+    wikipedia: http://en.wikipedia.org/wiki/James_Bryce,_1st_Viscount_Bryce
+description: ''
+gutenberg_issued: '2013-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44101'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Holy Roman Empire -- History'
+- !lcc 'DD'
+title: The Holy Roman Empire
+url: http://www.gutenberg.org/ebooks/44101
